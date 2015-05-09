@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HearMyVoice</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ParseObject">CallData</string>
+    <string name="Phone">Phone number</string>
+    <string name="SendButton">Send</string>
+
+</resources>
